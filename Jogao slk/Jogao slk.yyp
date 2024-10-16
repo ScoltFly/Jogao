@@ -34,14 +34,15 @@
   },
   "name":"Jogao slk",
   "resources":[
-    {"id":{"name":"Ratolandia","path":"rooms/Ratolandia/Ratolandia.yy",},},
-    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
-    {"id":{"name":"sBixinho","path":"sprites/sBixinho/sBixinho.yy",},},
+    {"id":{"name":"Door01","path":"rooms/Door01/Door01.yy",},},
+    {"id":{"name":"Room","path":"rooms/Room/Room.yy",},},
+    {"id":{"name":"spr_phill","path":"sprites/spr_phill/spr_phill.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Ratolandia","path":"rooms/Ratolandia/Ratolandia.yy",},},
+    {"roomId":{"name":"Room","path":"rooms/Room/Room.yy",},},
+    {"roomId":{"name":"Door01","path":"rooms/Door01/Door01.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
