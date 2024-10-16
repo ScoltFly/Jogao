@@ -34,15 +34,14 @@
   },
   "name":"Jogao slk",
   "resources":[
-    {"id":{"name":"Door01","path":"rooms/Door01/Door01.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room","path":"rooms/Room/Room.yy",},},
-    {"id":{"name":"spr_phill","path":"sprites/spr_phill/spr_phill.yy",},},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room","path":"rooms/Room/Room.yy",},},
-    {"roomId":{"name":"Door01","path":"rooms/Door01/Door01.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
